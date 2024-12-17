@@ -1,0 +1,701 @@
+image_path,true_label,predicted_label,confidence_score (%)
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Afghan\01.jpg,Afghan,Afghan,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Afghan\02.jpg,Afghan,Afghan,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Afghan\03.jpg,Afghan,Afghan,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Afghan\04.jpg,Afghan,Afghan,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Afghan\05.jpg,Afghan,Afghan,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Afghan\06.jpg,Afghan,Afghan,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Afghan\07.jpg,Afghan,Afghan,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Afghan\08.jpg,Afghan,Afghan,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Afghan\09.jpg,Afghan,Afghan,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Afghan\10.jpg,Afghan,Afghan,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\African Wild Dog\01.jpg,African Wild Dog,African Wild Dog,99.99998807907104
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\African Wild Dog\02.jpg,African Wild Dog,African Wild Dog,99.8400866985321
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\African Wild Dog\03.jpg,African Wild Dog,African Wild Dog,99.84900951385498
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\African Wild Dog\04.jpg,African Wild Dog,African Wild Dog,98.52837324142456
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\African Wild Dog\05.jpg,African Wild Dog,German Sheperd,11.927241086959839
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\African Wild Dog\06.jpg,African Wild Dog,African Wild Dog,99.99942779541016
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\African Wild Dog\07.jpg,African Wild Dog,African Wild Dog,99.37741756439209
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\African Wild Dog\08.jpg,African Wild Dog,African Wild Dog,99.99021291732788
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\African Wild Dog\09.jpg,African Wild Dog,African Wild Dog,99.922776222229
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\African Wild Dog\10.jpg,African Wild Dog,African Wild Dog,99.67283010482788
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Airedale\01.jpg,Airedale,Airedale,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Airedale\02.jpg,Airedale,Airedale,95.6111192703247
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Airedale\03.jpg,Airedale,Airedale,99.96440410614014
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Airedale\04.jpg,Airedale,Airedale,99.98769760131836
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Airedale\05.jpg,Airedale,Airedale,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Airedale\06.jpg,Airedale,Airedale,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Airedale\07.jpg,Airedale,Airedale,97.07216024398804
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Airedale\08.jpg,Airedale,Airedale,99.98879432678223
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Airedale\09.jpg,Airedale,Airedale,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Airedale\10.jpg,Airedale,Airedale,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\American  Spaniel\01.jpg,American  Spaniel,Labradoodle,31.987264752388
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\American  Spaniel\02.jpg,American  Spaniel,American  Spaniel,97.31643795967102
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\American  Spaniel\03.jpg,American  Spaniel,Blenheim,31.73375129699707
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\American  Spaniel\04.jpg,American  Spaniel,American  Spaniel,79.81729507446289
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\American  Spaniel\05.jpg,American  Spaniel,Irish Spaniel,99.55190420150757
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\American  Spaniel\06.jpg,American  Spaniel,Irish Spaniel,89.42399024963379
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\American  Spaniel\07.jpg,American  Spaniel,American  Spaniel,97.83859848976135
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\American  Spaniel\08.jpg,American  Spaniel,American  Spaniel,99.72767233848572
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\American  Spaniel\09.jpg,American  Spaniel,American  Spaniel,99.76224303245544
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\American  Spaniel\10.jpg,American  Spaniel,Irish Spaniel,66.2884771823883
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\American Hairless\01.jpg,American Hairless,Chinese Crested,67.39829182624817
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\American Hairless\02.jpg,American Hairless,American Hairless,46.71382009983063
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\American Hairless\03.jpg,American Hairless,Mex Hairless,48.12335968017578
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\American Hairless\04.jpg,American Hairless,Border Collie,2.25231871008873
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\American Hairless\05.jpg,American Hairless,American Hairless,13.673076033592224
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\American Hairless\06.jpg,American Hairless,Chinese Crested,21.562282741069794
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\American Hairless\07.jpg,American Hairless,American  Spaniel,6.054691970348358
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\American Hairless\08.jpg,American Hairless,Mex Hairless,14.389301836490631
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\American Hairless\09.jpg,American Hairless,Border Collie,2.25231871008873
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\American Hairless\10.jpg,American Hairless,American Hairless,7.936086505651474
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Basenji\01.jpg,Basenji,Basenji,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Basenji\02.jpg,Basenji,Basenji,99.99995231628418
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Basenji\03.jpg,Basenji,Basenji,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Basenji\04.jpg,Basenji,Basenji,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Basenji\05.jpg,Basenji,Basenji,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Basenji\06.jpg,Basenji,Basenji,99.99980926513672
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Basenji\07.jpg,Basenji,Basenji,99.99982118606567
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Basenji\08.jpg,Basenji,Basenji,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Basenji\09.jpg,Basenji,Basenji,99.9998927116394
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Basenji\10.jpg,Basenji,Basenji,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Basset\01.jpg,Basset,Basset,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Basset\02.jpg,Basset,Basset,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Basset\03.jpg,Basset,Basset,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Basset\04.jpg,Basset,Basset,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Basset\05.jpg,Basset,Basset,99.99991655349731
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Basset\06.jpg,Basset,Basset,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Basset\07.jpg,Basset,Basset,99.99998807907104
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Basset\08.jpg,Basset,Basset,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Basset\09.jpg,Basset,Basset,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Basset\10.jpg,Basset,Basset,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Beagle\01.jpg,Beagle,Beagle,99.9954104423523
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Beagle\02.jpg,Beagle,Beagle,99.19887185096741
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Beagle\03.jpg,Beagle,Beagle,99.87888932228088
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Beagle\04.jpg,Beagle,Beagle,99.90052580833435
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Beagle\05.jpg,Beagle,Beagle,99.44907426834106
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Beagle\06.jpg,Beagle,Beagle,99.95757937431335
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Beagle\07.jpg,Beagle,Beagle,99.99958276748657
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Beagle\08.jpg,Beagle,Beagle,99.9872088432312
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Beagle\09.jpg,Beagle,Beagle,99.99988079071045
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Beagle\10.jpg,Beagle,Beagle,99.99855756759644
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bearded Collie\01.jpg,Bearded Collie,Bearded Collie,99.53688979148865
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bearded Collie\02.jpg,Bearded Collie,Bearded Collie,99.95274543762207
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bearded Collie\03.jpg,Bearded Collie,Bearded Collie,99.99514818191528
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bearded Collie\04.jpg,Bearded Collie,Bearded Collie,99.96984004974365
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bearded Collie\05.jpg,Bearded Collie,Bearded Collie,99.92387294769287
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bearded Collie\06.jpg,Bearded Collie,Bearded Collie,87.44474649429321
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bearded Collie\07.jpg,Bearded Collie,Bearded Collie,99.99909400939941
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bearded Collie\08.jpg,Bearded Collie,Bearded Collie,99.9873161315918
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bearded Collie\09.jpg,Bearded Collie,Bearded Collie,99.98756647109985
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bearded Collie\10.jpg,Bearded Collie,Bearded Collie,99.87764954566956
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bermaise\01.jpg,Bermaise,Bermaise,99.99955892562866
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bermaise\02.jpg,Bermaise,Bermaise,99.99935626983643
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bermaise\03.jpg,Bermaise,Bermaise,99.99996423721313
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bermaise\04.jpg,Bermaise,Bermaise,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bermaise\05.jpg,Bermaise,Bermaise,99.42065477371216
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bermaise\06.jpg,Bermaise,Bermaise,99.99998807907104
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bermaise\07.jpg,Bermaise,Bermaise,71.44657969474792
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bermaise\08.jpg,Bermaise,Bermaise,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bermaise\09.jpg,Bermaise,Bermaise,99.99959468841553
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bermaise\10.jpg,Bermaise,Bermaise,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bichon Frise\01.jpg,Bichon Frise,Bichon Frise,99.81295466423035
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bichon Frise\02.jpg,Bichon Frise,Bichon Frise,99.99507665634155
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bichon Frise\03.jpg,Bichon Frise,Bichon Frise,99.99786615371704
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bichon Frise\04.jpg,Bichon Frise,Bichon Frise,99.9995231628418
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bichon Frise\05.jpg,Bichon Frise,Bichon Frise,99.99082088470459
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bichon Frise\06.jpg,Bichon Frise,Bichon Frise,99.93791580200195
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bichon Frise\07.jpg,Bichon Frise,Bichon Frise,99.80320334434509
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bichon Frise\08.jpg,Bichon Frise,Bichon Frise,99.98910427093506
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bichon Frise\09.jpg,Bichon Frise,Bichon Frise,99.85495209693909
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bichon Frise\10.jpg,Bichon Frise,Bichon Frise,99.95805621147156
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Blenheim\01.jpg,Blenheim,Blenheim,99.99977350234985
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Blenheim\02.jpg,Blenheim,Blenheim,99.99963045120239
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Blenheim\03.jpg,Blenheim,Blenheim,99.99988079071045
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Blenheim\04.jpg,Blenheim,Blenheim,99.99866485595703
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Blenheim\05.jpg,Blenheim,Blenheim,99.99827146530151
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Blenheim\06.jpg,Blenheim,Blenheim,99.98892545700073
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Blenheim\07.jpg,Blenheim,Blenheim,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Blenheim\08.jpg,Blenheim,Blenheim,99.98593330383301
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Blenheim\09.jpg,Blenheim,Blenheim,99.99957084655762
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Blenheim\10.jpg,Blenheim,Blenheim,99.98708963394165
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bloodhound\01.jpg,Bloodhound,Bloodhound,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bloodhound\02.jpg,Bloodhound,Bloodhound,99.99978542327881
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bloodhound\03.jpg,Bloodhound,Bloodhound,99.99747276306152
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bloodhound\04.jpg,Bloodhound,Bloodhound,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bloodhound\05.jpg,Bloodhound,Bloodhound,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bloodhound\06.jpg,Bloodhound,Bloodhound,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bloodhound\07.jpg,Bloodhound,Bloodhound,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bloodhound\08.jpg,Bloodhound,Bloodhound,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bloodhound\09.jpg,Bloodhound,Bloodhound,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bloodhound\10.jpg,Bloodhound,Bloodhound,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bluetick\01.jpg,Bluetick,Bluetick,99.99969005584717
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bluetick\02.jpg,Bluetick,Lhasa,65.04912972450256
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bluetick\03.jpg,Bluetick,Bluetick,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bluetick\04.jpg,Bluetick,Bluetick,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bluetick\05.jpg,Bluetick,Bluetick,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bluetick\06.jpg,Bluetick,Bluetick,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bluetick\07.jpg,Bluetick,Bluetick,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bluetick\08.jpg,Bluetick,Bluetick,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bluetick\09.jpg,Bluetick,Bluetick,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bluetick\10.jpg,Bluetick,Bluetick,99.99316930770874
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Border Collie\01.jpg,Border Collie,Border Collie,90.22198915481567
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Border Collie\02.jpg,Border Collie,Border Collie,68.40386390686035
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Border Collie\03.jpg,Border Collie,Border Collie,96.81698679924011
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Border Collie\04.jpg,Border Collie,Border Collie,94.45350170135498
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Border Collie\05.jpg,Border Collie,Border Collie,99.45331811904907
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Border Collie\06.jpg,Border Collie,Border Collie,97.29920625686646
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Border Collie\07.jpg,Border Collie,Border Collie,98.44946265220642
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Border Collie\08.jpg,Border Collie,Border Collie,99.20693635940552
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Border Collie\09.jpg,Border Collie,Border Collie,99.95431900024414
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Border Collie\10.jpg,Border Collie,Border Collie,2.25231871008873
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Borzoi\01.jpg,Borzoi,Borzoi,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Borzoi\02.jpg,Borzoi,Borzoi,99.99971389770508
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Borzoi\03.jpg,Borzoi,Borzoi,99.6519684791565
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Borzoi\04.jpg,Borzoi,Borzoi,99.48654770851135
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Borzoi\05.jpg,Borzoi,Borzoi,39.25398588180542
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Borzoi\06.jpg,Borzoi,Borzoi,99.98180270195007
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Borzoi\07.jpg,Borzoi,Borzoi,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Borzoi\08.jpg,Borzoi,Borzoi,99.99995231628418
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Borzoi\09.jpg,Borzoi,Borzoi,99.99991655349731
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Borzoi\10.jpg,Borzoi,Borzoi,82.3414146900177
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Boston Terrier\01.jpg,Boston Terrier,Boston Terrier,54.21450734138489
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Boston Terrier\02.jpg,Boston Terrier,French Bulldog,98.87300133705139
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Boston Terrier\03.jpg,Boston Terrier,Boston Terrier,60.267627239227295
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Boston Terrier\04.jpg,Boston Terrier,Bulldog,61.56463027000427
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Boston Terrier\05.jpg,Boston Terrier,Boston Terrier,63.519155979156494
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Boston Terrier\06.jpg,Boston Terrier,Boston Terrier,46.71637415885925
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Boston Terrier\07.jpg,Boston Terrier,Boston Terrier,64.21010494232178
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Boston Terrier\08.jpg,Boston Terrier,Boston Terrier,66.74476265907288
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Boston Terrier\09.jpg,Boston Terrier,Boston Terrier,45.97886800765991
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Boston Terrier\10.jpg,Boston Terrier,Boston Terrier,50.487178564071655
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Boxer\01.jpg,Boxer,Boxer,99.42288398742676
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Boxer\02.jpg,Boxer,Boxer,99.93040561676025
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Boxer\03.jpg,Boxer,Bull Mastiff,43.85959506034851
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Boxer\04.jpg,Boxer,Boxer,96.6093122959137
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Boxer\05.jpg,Boxer,Boxer,99.46275353431702
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Boxer\06.jpg,Boxer,Boxer,99.99973773956299
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Boxer\07.jpg,Boxer,Boxer,99.99985694885254
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Boxer\08.jpg,Boxer,Boxer,84.54641103744507
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Boxer\09.jpg,Boxer,Boxer,98.56396913528442
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Boxer\10.jpg,Boxer,Boxer,99.81695413589478
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bull Mastiff\01.jpg,Bull Mastiff,Bull Mastiff,99.93259906768799
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bull Mastiff\02.jpg,Bull Mastiff,Bull Mastiff,83.86891484260559
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bull Mastiff\03.jpg,Bull Mastiff,Bull Mastiff,95.41195034980774
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bull Mastiff\04.jpg,Bull Mastiff,Bull Mastiff,99.42523837089539
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bull Mastiff\05.jpg,Bull Mastiff,Bull Mastiff,87.78159618377686
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bull Mastiff\06.jpg,Bull Mastiff,Bull Mastiff,99.41376447677612
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bull Mastiff\07.jpg,Bull Mastiff,Bull Mastiff,35.788553953170776
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bull Mastiff\08.jpg,Bull Mastiff,Bull Mastiff,98.84512424468994
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bull Mastiff\09.jpg,Bull Mastiff,Bull Mastiff,95.41170001029968
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bull Mastiff\10.jpg,Bull Mastiff,Bull Mastiff,92.49599575996399
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bull Terrier\01.jpg,Bull Terrier,Bull Terrier,90.97984433174133
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bull Terrier\02.jpg,Bull Terrier,Bull Terrier,99.27958846092224
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bull Terrier\03.jpg,Bull Terrier,Bull Terrier,99.98422861099243
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bull Terrier\04.jpg,Bull Terrier,Bull Terrier,98.8015353679657
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bull Terrier\05.jpg,Bull Terrier,Bull Terrier,99.78360533714294
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bull Terrier\06.jpg,Bull Terrier,Bull Terrier,99.98999834060669
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bull Terrier\07.jpg,Bull Terrier,Bull Terrier,98.85233044624329
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bull Terrier\08.jpg,Bull Terrier,Bull Terrier,99.98049139976501
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bull Terrier\09.jpg,Bull Terrier,Bull Terrier,99.50461387634277
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bull Terrier\10.jpg,Bull Terrier,Bull Terrier,99.96926784515381
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bulldog\01.jpg,Bulldog,Lhasa,23.815494775772095
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bulldog\02.jpg,Bulldog,Bulldog,89.11632895469666
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bulldog\03.jpg,Bulldog,Bulldog,97.06991314888
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bulldog\04.jpg,Bulldog,Bulldog,95.47768235206604
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bulldog\05.jpg,Bulldog,Bulldog,76.08442306518555
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bulldog\06.jpg,Bulldog,Bulldog,94.82873678207397
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bulldog\07.jpg,Bulldog,Bulldog,96.19299173355103
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bulldog\08.jpg,Bulldog,Bulldog,83.65925550460815
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bulldog\09.jpg,Bulldog,Pit Bull,74.98902678489685
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Bulldog\10.jpg,Bulldog,Bulldog,90.82131385803223
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cairn\01.jpg,Cairn,Cairn,98.89927506446838
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cairn\02.jpg,Cairn,Cairn,77.25430130958557
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cairn\03.jpg,Cairn,Cairn,86.84834837913513
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cairn\04.jpg,Cairn,Cairn,94.01131272315979
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cairn\05.jpg,Cairn,Cairn,88.79815340042114
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cairn\06.jpg,Cairn,Cairn,98.8720715045929
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cairn\07.jpg,Cairn,Cairn,93.74498724937439
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cairn\08.jpg,Cairn,Cairn,91.74994826316833
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cairn\09.jpg,Cairn,Cairn,98.70331287384033
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cairn\10.jpg,Cairn,Cairn,90.12499451637268
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chihuahua\01.jpg,Chihuahua,Chihuahua,99.55346584320068
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chihuahua\02.jpg,Chihuahua,Chihuahua,99.96868371963501
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chihuahua\03.jpg,Chihuahua,Chihuahua,46.16972208023071
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chihuahua\04.jpg,Chihuahua,French Bulldog,35.32659709453583
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chihuahua\05.jpg,Chihuahua,Chihuahua,99.98645782470703
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chihuahua\06.jpg,Chihuahua,Chihuahua,99.42983984947205
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chihuahua\07.jpg,Chihuahua,Chihuahua,99.73172545433044
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chihuahua\08.jpg,Chihuahua,Corgi,99.97541308403015
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chihuahua\09.jpg,Chihuahua,Chihuahua,98.16336035728455
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chihuahua\10.jpg,Chihuahua,Chihuahua,99.95684027671814
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chinese Crested\01.jpg,Chinese Crested,Chinese Crested,92.11376309394836
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chinese Crested\02.jpg,Chinese Crested,Chinese Crested,99.99985694885254
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chinese Crested\03.jpg,Chinese Crested,Chinese Crested,99.86531734466553
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chinese Crested\04.jpg,Chinese Crested,Chinese Crested,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chinese Crested\05.jpg,Chinese Crested,Chinese Crested,99.92576241493225
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chinese Crested\06.jpg,Chinese Crested,Chinese Crested,99.99992847442627
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chinese Crested\07.jpg,Chinese Crested,Chinese Crested,99.74108338356018
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chinese Crested\08.jpg,Chinese Crested,Chinese Crested,99.99980926513672
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chinese Crested\09.jpg,Chinese Crested,Chinese Crested,99.99994039535522
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chinese Crested\10.jpg,Chinese Crested,Chinese Crested,99.8773992061615
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chow\01.jpg,Chow,Chow,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chow\02.jpg,Chow,Chow,99.99935626983643
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chow\03.jpg,Chow,Chow,99.94571805000305
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chow\04.jpg,Chow,Chow,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chow\05.jpg,Chow,Chow,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chow\06.jpg,Chow,Chow,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chow\07.jpg,Chow,Chow,99.99998807907104
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chow\08.jpg,Chow,Chow,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chow\09.jpg,Chow,Chow,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Chow\10.jpg,Chow,Chow,99.99845027923584
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Clumber\01.jpg,Clumber,Clumber,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Clumber\02.jpg,Clumber,Clumber,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Clumber\03.jpg,Clumber,Clumber,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Clumber\04.jpg,Clumber,Clumber,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Clumber\05.jpg,Clumber,Clumber,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Clumber\06.jpg,Clumber,Clumber,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Clumber\07.jpg,Clumber,Clumber,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Clumber\08.jpg,Clumber,Clumber,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Clumber\09.jpg,Clumber,Clumber,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Clumber\10.jpg,Clumber,Clumber,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cockapoo\01.jpg,Cockapoo,Rottweiler,47.9737251996994
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cockapoo\02.jpg,Cockapoo,Cockapoo,89.49937224388123
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cockapoo\03.jpg,Cockapoo,Cocker,42.60952174663544
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cockapoo\04.jpg,Cockapoo,Cockapoo,98.96860718727112
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cockapoo\05.jpg,Cockapoo,Cockapoo,44.75574493408203
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cockapoo\06.jpg,Cockapoo,Cockapoo,87.8702461719513
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cockapoo\07.jpg,Cockapoo,Cockapoo,94.88147497177124
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cockapoo\08.jpg,Cockapoo,Cockapoo,95.64135074615479
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cockapoo\09.jpg,Cockapoo,Cockapoo,79.50621843338013
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cockapoo\10.jpg,Cockapoo,Cockapoo,89.20327425003052
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cocker\01.jpg,Cocker,Cocker,86.94612383842468
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cocker\02.jpg,Cocker,Cocker,78.69715094566345
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cocker\03.jpg,Cocker,Cocker,98.387211561203
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cocker\04.jpg,Cocker,American  Spaniel,68.56162548065186
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cocker\05.jpg,Cocker,Cocker,87.23151087760925
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cocker\06.jpg,Cocker,Cocker,95.4709529876709
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cocker\07.jpg,Cocker,Cocker,99.62010979652405
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cocker\08.jpg,Cocker,Cocker,98.33886623382568
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cocker\09.jpg,Cocker,Cocker,91.11495018005371
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Cocker\10.jpg,Cocker,Cocker,99.97226595878601
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Collie\01.jpg,Collie,Collie,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Collie\02.jpg,Collie,Collie,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Collie\03.jpg,Collie,Collie,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Collie\04.jpg,Collie,Collie,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Collie\05.jpg,Collie,Collie,99.99994039535522
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Collie\06.jpg,Collie,Collie,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Collie\07.jpg,Collie,Collie,99.99998807907104
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Collie\08.jpg,Collie,Collie,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Collie\09.jpg,Collie,Collie,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Collie\10.jpg,Collie,Collie,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Corgi\01.jpg,Corgi,Corgi,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Corgi\02.jpg,Corgi,Corgi,99.99997615814209
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Corgi\03.jpg,Corgi,Corgi,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Corgi\04.jpg,Corgi,Corgi,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Corgi\05.jpg,Corgi,Corgi,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Corgi\06.jpg,Corgi,Corgi,99.99997615814209
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Corgi\07.jpg,Corgi,Corgi,99.99990463256836
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Corgi\08.jpg,Corgi,Corgi,99.99855756759644
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Corgi\09.jpg,Corgi,Corgi,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Corgi\10.jpg,Corgi,Corgi,99.98447895050049
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Coyote\01.jpg,Coyote,Coyote,99.98533725738525
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Coyote\02.jpg,Coyote,Coyote,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Coyote\03.jpg,Coyote,Coyote,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Coyote\04.jpg,Coyote,Coyote,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Coyote\05.jpg,Coyote,Coyote,99.99988079071045
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Coyote\06.jpg,Coyote,Coyote,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Coyote\07.jpg,Coyote,Coyote,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Coyote\08.jpg,Coyote,Coyote,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Coyote\09.jpg,Coyote,Coyote,99.99973773956299
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Coyote\10.jpg,Coyote,Coyote,99.99991655349731
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dalmation\01.jpg,Dalmation,Dalmation,99.98910427093506
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dalmation\02.jpg,Dalmation,Dalmation,99.19010996818542
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dalmation\03.jpg,Dalmation,Dalmation,88.18334341049194
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dalmation\04.jpg,Dalmation,Dalmation,99.81160163879395
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dalmation\05.jpg,Dalmation,Dalmation,98.40269088745117
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dalmation\06.jpg,Dalmation,Dalmation,97.59573340415955
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dalmation\07.jpg,Dalmation,Dalmation,45.946234464645386
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dalmation\08.jpg,Dalmation,Dalmation,99.99173879623413
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dalmation\09.jpg,Dalmation,Bermaise,50.64324736595154
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dalmation\10.jpg,Dalmation,Dalmation,99.67785477638245
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dhole\01.jpg,Dhole,Dhole,99.99977350234985
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dhole\02.jpg,Dhole,Dhole,99.99865293502808
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dhole\03.jpg,Dhole,Dhole,99.99706745147705
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dhole\04.jpg,Dhole,Dhole,99.97952580451965
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dhole\05.jpg,Dhole,Dhole,99.99886751174927
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dhole\06.jpg,Dhole,Dhole,99.99964237213135
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dhole\07.jpg,Dhole,Dhole,99.99831914901733
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dhole\08.jpg,Dhole,Dhole,99.99914169311523
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dhole\09.jpg,Dhole,Dhole,99.99946355819702
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dhole\10.jpg,Dhole,Dhole,99.99537467956543
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dingo\01.jpg,Dingo,Dingo,99.56417083740234
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dingo\02.jpg,Dingo,Shiba Inu,60.890477895736694
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dingo\03.jpg,Dingo,Dingo,99.85334873199463
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dingo\04.jpg,Dingo,Dingo,99.83574748039246
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dingo\05.jpg,Dingo,Dingo,95.74589133262634
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dingo\06.jpg,Dingo,Dingo,97.96866178512573
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dingo\07.jpg,Dingo,Dingo,99.01228547096252
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dingo\08.jpg,Dingo,Dingo,69.72038745880127
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dingo\09.jpg,Dingo,Dingo,99.75495934486389
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Dingo\10.jpg,Dingo,Dingo,99.63041543960571
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Doberman\01.jpg,Doberman,Doberman,99.99995231628418
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Doberman\02.jpg,Doberman,Doberman,99.99955892562866
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Doberman\03.jpg,Doberman,Doberman,99.99972581863403
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Doberman\04.jpg,Doberman,Doberman,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Doberman\05.jpg,Doberman,Doberman,99.99957084655762
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Doberman\06.jpg,Doberman,Doberman,99.99995231628418
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Doberman\07.jpg,Doberman,Doberman,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Doberman\08.jpg,Doberman,Doberman,99.99955892562866
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Doberman\09.jpg,Doberman,Doberman,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Doberman\10.jpg,Doberman,Doberman,99.96755123138428
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Elk Hound\01.jpg,Elk Hound,Elk Hound,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Elk Hound\02.jpg,Elk Hound,Elk Hound,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Elk Hound\03.jpg,Elk Hound,Elk Hound,99.99988079071045
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Elk Hound\04.jpg,Elk Hound,Elk Hound,99.99990463256836
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Elk Hound\05.jpg,Elk Hound,Elk Hound,99.96602535247803
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Elk Hound\06.jpg,Elk Hound,Elk Hound,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Elk Hound\07.jpg,Elk Hound,Elk Hound,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Elk Hound\08.jpg,Elk Hound,Elk Hound,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Elk Hound\09.jpg,Elk Hound,Elk Hound,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Elk Hound\10.jpg,Elk Hound,Elk Hound,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\French Bulldog\01.jpg,French Bulldog,French Bulldog,99.42903518676758
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\French Bulldog\02.jpg,French Bulldog,French Bulldog,99.25697445869446
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\French Bulldog\03.jpg,French Bulldog,French Bulldog,99.98633861541748
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\French Bulldog\04.jpg,French Bulldog,French Bulldog,97.5623607635498
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\French Bulldog\05.jpg,French Bulldog,French Bulldog,92.04021692276001
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\French Bulldog\06.jpg,French Bulldog,French Bulldog,99.73937273025513
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\French Bulldog\07.jpg,French Bulldog,French Bulldog,99.65294003486633
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\French Bulldog\08.jpg,French Bulldog,French Bulldog,98.32617044448853
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\French Bulldog\09.jpg,French Bulldog,French Bulldog,99.50894713401794
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\French Bulldog\10.jpg,French Bulldog,French Bulldog,93.54783892631531
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\German Sheperd\01.jpg,German Sheperd,German Sheperd,99.02153015136719
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\German Sheperd\02.jpg,German Sheperd,German Sheperd,99.77380037307739
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\German Sheperd\03.jpg,German Sheperd,German Sheperd,98.60199093818665
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\German Sheperd\04.jpg,German Sheperd,German Sheperd,98.05958271026611
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\German Sheperd\05.jpg,German Sheperd,German Sheperd,99.94301199913025
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\German Sheperd\06.jpg,German Sheperd,German Sheperd,98.22571873664856
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\German Sheperd\07.jpg,German Sheperd,German Sheperd,97.19551801681519
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\German Sheperd\08.jpg,German Sheperd,German Sheperd,96.1188018321991
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\German Sheperd\09.jpg,German Sheperd,German Sheperd,96.17111086845398
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\German Sheperd\10.jpg,German Sheperd,German Sheperd,99.37246441841125
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Golden Retriever\01.jpg,Golden Retriever,Golden Retriever,99.6869146823883
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Golden Retriever\02.jpg,Golden Retriever,Golden Retriever,99.99738931655884
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Golden Retriever\03.jpg,Golden Retriever,Golden Retriever,99.99949932098389
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Golden Retriever\04.jpg,Golden Retriever,Golden Retriever,99.5668888092041
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Golden Retriever\05.jpg,Golden Retriever,Golden Retriever,99.99828338623047
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Golden Retriever\06.jpg,Golden Retriever,Golden Retriever,99.99943971633911
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Golden Retriever\07.jpg,Golden Retriever,Golden Retriever,87.24754452705383
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Golden Retriever\08.jpg,Golden Retriever,Golden Retriever,75.69767236709595
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Golden Retriever\09.jpg,Golden Retriever,Golden Retriever,93.3863878250122
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Golden Retriever\10.jpg,Golden Retriever,Golden Retriever,99.63399171829224
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Great Dane\01.jpg,Great Dane,Great Dane,93.38123202323914
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Great Dane\02.jpg,Great Dane,Great Dane,99.91384744644165
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Great Dane\03.jpg,Great Dane,Great Dane,99.9990463256836
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Great Dane\04.jpg,Great Dane,Great Dane,99.99380111694336
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Great Dane\05.jpg,Great Dane,Great Dane,97.73030281066895
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Great Dane\06.jpg,Great Dane,Great Dane,99.53650236129761
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Great Dane\07.jpg,Great Dane,Great Dane,99.84734654426575
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Great Dane\08.jpg,Great Dane,Great Dane,99.74180459976196
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Great Dane\09.jpg,Great Dane,Great Dane,99.99381303787231
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Great Dane\10.jpg,Great Dane,Great Dane,99.56087470054626
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Great Perenees\01.jpg,Great Perenees,Great Perenees,99.98334646224976
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Great Perenees\02.jpg,Great Perenees,Great Perenees,66.79229140281677
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Great Perenees\03.jpg,Great Perenees,Great Perenees,99.9943733215332
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Great Perenees\04.jpg,Great Perenees,Great Perenees,99.98527765274048
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Great Perenees\05.jpg,Great Perenees,Great Perenees,99.99463558197021
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Great Perenees\06.jpg,Great Perenees,Great Perenees,99.43723678588867
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Great Perenees\07.jpg,Great Perenees,Great Perenees,98.51144552230835
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Great Perenees\08.jpg,Great Perenees,Great Perenees,99.88589286804199
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Great Perenees\09.jpg,Great Perenees,Great Perenees,99.93821382522583
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Great Perenees\10.jpg,Great Perenees,Great Perenees,56.54875636100769
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Greyhound\01.jpg,Greyhound,Greyhound,99.9728262424469
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Greyhound\02.jpg,Greyhound,Greyhound,99.91469383239746
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Greyhound\03.jpg,Greyhound,Greyhound,99.57969188690186
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Greyhound\04.jpg,Greyhound,Greyhound,99.99793767929077
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Greyhound\05.jpg,Greyhound,Greyhound,66.03527069091797
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Greyhound\06.jpg,Greyhound,Greyhound,98.12185168266296
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Greyhound\07.jpg,Greyhound,Greyhound,96.7589020729065
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Greyhound\08.jpg,Greyhound,Greyhound,88.38059306144714
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Greyhound\09.jpg,Greyhound,Chinese Crested,88.54803442955017
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Greyhound\10.jpg,Greyhound,Greyhound,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Groenendael\01.jpg,Groenendael,Groenendael,99.9160647392273
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Groenendael\02.jpg,Groenendael,Groenendael,86.16624474525452
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Groenendael\03.jpg,Groenendael,Groenendael,92.09997057914734
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Groenendael\04.jpg,Groenendael,Groenendael,99.97044205665588
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Groenendael\05.jpg,Groenendael,Groenendael,99.85672235488892
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Groenendael\06.jpg,Groenendael,Groenendael,99.84500408172607
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Groenendael\07.jpg,Groenendael,American  Spaniel,5.298345163464546
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Groenendael\08.jpg,Groenendael,Groenendael,96.58284187316895
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Groenendael\09.jpg,Groenendael,Malinois,43.47241818904877
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Groenendael\10.jpg,Groenendael,Groenendael,99.79386925697327
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Irish Spaniel\01.jpg,Irish Spaniel,Irish Spaniel,46.052709221839905
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Irish Spaniel\02.jpg,Irish Spaniel,Irish Spaniel,99.49334263801575
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Irish Spaniel\03.jpg,Irish Spaniel,Irish Spaniel,96.97704911231995
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Irish Spaniel\04.jpg,Irish Spaniel,Irish Spaniel,99.70616698265076
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Irish Spaniel\05.jpg,Irish Spaniel,Irish Spaniel,99.86922144889832
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Irish Spaniel\06.jpg,Irish Spaniel,Irish Spaniel,99.92477893829346
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Irish Spaniel\07.jpg,Irish Spaniel,Irish Spaniel,99.79230761528015
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Irish Spaniel\08.jpg,Irish Spaniel,Irish Spaniel,99.80559349060059
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Irish Spaniel\09.jpg,Irish Spaniel,Irish Spaniel,99.8121440410614
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Irish Spaniel\10.jpg,Irish Spaniel,Irish Spaniel,99.54865574836731
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Irish Wolfhound\01.jpg,Irish Wolfhound,Irish Wolfhound,99.1222620010376
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Irish Wolfhound\02.jpg,Irish Wolfhound,Irish Wolfhound,99.99992847442627
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Irish Wolfhound\03.jpg,Irish Wolfhound,Great Dane,2.628176473081112
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Irish Wolfhound\04.jpg,Irish Wolfhound,Irish Wolfhound,99.9984622001648
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Irish Wolfhound\05.jpg,Irish Wolfhound,Irish Wolfhound,99.99992847442627
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Irish Wolfhound\06.jpg,Irish Wolfhound,Irish Wolfhound,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Irish Wolfhound\07.jpg,Irish Wolfhound,Schnauzer,15.983784198760986
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Irish Wolfhound\08.jpg,Irish Wolfhound,Border Collie,2.2589294239878654
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Irish Wolfhound\09.jpg,Irish Wolfhound,Schnauzer,27.866986393928528
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Irish Wolfhound\10.jpg,Irish Wolfhound,Irish Wolfhound,84.37349796295166
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Japanese Spaniel\01.jpg,Japanese Spaniel,Japanese Spaniel,99.9699354171753
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Japanese Spaniel\02.jpg,Japanese Spaniel,Japanese Spaniel,99.99982118606567
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Japanese Spaniel\03.jpg,Japanese Spaniel,Japanese Spaniel,99.99656677246094
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Japanese Spaniel\04.jpg,Japanese Spaniel,Japanese Spaniel,99.99637603759766
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Japanese Spaniel\05.jpg,Japanese Spaniel,Japanese Spaniel,99.99021291732788
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Japanese Spaniel\06.jpg,Japanese Spaniel,Japanese Spaniel,99.99850988388062
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Japanese Spaniel\07.jpg,Japanese Spaniel,Japanese Spaniel,99.96929168701172
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Japanese Spaniel\08.jpg,Japanese Spaniel,Japanese Spaniel,99.99991655349731
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Japanese Spaniel\09.jpg,Japanese Spaniel,Japanese Spaniel,99.99834299087524
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Japanese Spaniel\10.jpg,Japanese Spaniel,Japanese Spaniel,99.99890327453613
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Komondor\01.jpg,Komondor,Komondor,99.92051720619202
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Komondor\02.jpg,Komondor,Komondor,99.99998807907104
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Komondor\03.jpg,Komondor,Komondor,99.99998807907104
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Komondor\04.jpg,Komondor,Komondor,99.70672726631165
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Komondor\05.jpg,Komondor,Komondor,99.99949932098389
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Komondor\06.jpg,Komondor,Komondor,49.609071016311646
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Komondor\07.jpg,Komondor,Komondor,99.99556541442871
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Komondor\08.jpg,Komondor,Komondor,99.99123811721802
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Komondor\09.jpg,Komondor,Komondor,99.99892711639404
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Komondor\10.jpg,Komondor,Komondor,99.9964714050293
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Labradoodle\01.jpg,Labradoodle,Labradoodle,71.0481345653534
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Labradoodle\02.jpg,Labradoodle,Labradoodle,84.57347750663757
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Labradoodle\03.jpg,Labradoodle,Labradoodle,66.58709049224854
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Labradoodle\04.jpg,Labradoodle,Cockapoo,97.54413366317749
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Labradoodle\05.jpg,Labradoodle,Cockapoo,81.17614388465881
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Labradoodle\06.jpg,Labradoodle,Cockapoo,60.615408420562744
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Labradoodle\07.jpg,Labradoodle,Cockapoo,62.94353008270264
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Labradoodle\08.jpg,Labradoodle,Labradoodle,61.452192068099976
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Labradoodle\09.jpg,Labradoodle,Cockapoo,98.97360801696777
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Labradoodle\10.jpg,Labradoodle,Cockapoo,69.379061460495
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Labrador\01.jpg,Labrador,Labrador,99.93649125099182
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Labrador\02.jpg,Labrador,Golden Retriever,86.4816427230835
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Labrador\03.jpg,Labrador,Labrador,99.99998807907104
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Labrador\04.jpg,Labrador,Labrador,99.99926090240479
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Labrador\05.jpg,Labrador,Labrador,99.47176575660706
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Labrador\06.jpg,Labrador,Labrador,96.41417860984802
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Labrador\07.jpg,Labrador,Labrador,99.9947190284729
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Labrador\08.jpg,Labrador,Labrador,99.9998927116394
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Labrador\09.jpg,Labrador,Labrador,99.99878406524658
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Labrador\10.jpg,Labrador,Great Perenees,74.62184429168701
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Lhasa\01.jpg,Lhasa,Shih-Tzu,94.03732419013977
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Lhasa\02.jpg,Lhasa,Shih-Tzu,92.09995865821838
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Lhasa\03.jpg,Lhasa,Lhasa,98.23704957962036
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Lhasa\04.jpg,Lhasa,Lhasa,97.22860455513
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Lhasa\05.jpg,Lhasa,Lhasa,96.79785966873169
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Lhasa\06.jpg,Lhasa,Lhasa,97.72982001304626
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Lhasa\07.jpg,Lhasa,Shih-Tzu,59.31422710418701
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Lhasa\08.jpg,Lhasa,Cocker,52.17163562774658
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Lhasa\09.jpg,Lhasa,Lhasa,99.8306393623352
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Lhasa\10.jpg,Lhasa,Lhasa,92.7650511264801
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Malinois\01.jpg,Malinois,Malinois,99.99912977218628
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Malinois\02.jpg,Malinois,Malinois,99.99885559082031
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Malinois\03.jpg,Malinois,German Sheperd,49.10601079463959
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Malinois\04.jpg,Malinois,German Sheperd,54.67052459716797
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Malinois\05.jpg,Malinois,Malinois,91.39778017997742
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Malinois\06.jpg,Malinois,Malinois,99.52374696731567
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Malinois\07.jpg,Malinois,Malinois,99.9818503856659
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Malinois\08.jpg,Malinois,Malinois,99.57236051559448
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Malinois\09.jpg,Malinois,Malinois,97.99425601959229
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Malinois\10.jpg,Malinois,Malinois,99.92827773094177
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Maltese\01.jpg,Maltese,Maltese,99.65169429779053
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Maltese\02.jpg,Maltese,Maltese,99.94091987609863
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Maltese\03.jpg,Maltese,Maltese,99.32430386543274
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Maltese\04.jpg,Maltese,Lhasa,60.398679971694946
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Maltese\05.jpg,Maltese,Maltese,56.03671073913574
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Maltese\06.jpg,Maltese,Maltese,99.86121654510498
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Maltese\07.jpg,Maltese,Maltese,99.89354014396667
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Maltese\08.jpg,Maltese,Maltese,97.60600924491882
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Maltese\09.jpg,Maltese,Maltese,99.51052665710449
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Maltese\10.jpg,Maltese,Maltese,99.71619844436646
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Mex Hairless\01.jpg,Mex Hairless,Chinese Crested,56.73925280570984
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Mex Hairless\02.jpg,Mex Hairless,Mex Hairless,91.44064784049988
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Mex Hairless\03.jpg,Mex Hairless,Mex Hairless,99.23445582389832
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Mex Hairless\04.jpg,Mex Hairless,Mex Hairless,91.2335455417633
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Mex Hairless\05.jpg,Mex Hairless,Mex Hairless,86.54715418815613
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Mex Hairless\06.jpg,Mex Hairless,Mex Hairless,84.08563137054443
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Mex Hairless\07.jpg,Mex Hairless,Chinese Crested,66.58960580825806
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Mex Hairless\08.jpg,Mex Hairless,Mex Hairless,17.039108276367188
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Mex Hairless\09.jpg,Mex Hairless,Mex Hairless,88.22450041770935
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Mex Hairless\10.jpg,Mex Hairless,Mex Hairless,84.65501070022583
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Newfoundland\01.jpg,Newfoundland,Newfoundland,99.99985694885254
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Newfoundland\02.jpg,Newfoundland,Newfoundland,99.95635151863098
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Newfoundland\03.jpg,Newfoundland,Newfoundland,99.99979734420776
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Newfoundland\04.jpg,Newfoundland,Newfoundland,51.59939527511597
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Newfoundland\05.jpg,Newfoundland,Newfoundland,63.59735131263733
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Newfoundland\06.jpg,Newfoundland,Newfoundland,99.93594288825989
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Newfoundland\07.jpg,Newfoundland,Newfoundland,99.98716115951538
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Newfoundland\08.jpg,Newfoundland,Newfoundland,99.74398612976074
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Newfoundland\09.jpg,Newfoundland,Newfoundland,99.99995231628418
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Newfoundland\10.jpg,Newfoundland,Newfoundland,99.2460310459137
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pekinese\01.jpg,Pekinese,Pekinese,99.649578332901
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pekinese\02.jpg,Pekinese,Pekinese,97.18099236488342
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pekinese\03.jpg,Pekinese,Pekinese,99.6875524520874
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pekinese\04.jpg,Pekinese,Pekinese,99.72750544548035
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pekinese\05.jpg,Pekinese,Pekinese,93.47173571586609
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pekinese\06.jpg,Pekinese,Labrador,76.05859637260437
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pekinese\07.jpg,Pekinese,Pekinese,99.5808482170105
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pekinese\08.jpg,Pekinese,Pekinese,99.62461590766907
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pekinese\09.jpg,Pekinese,Pekinese,98.48306179046631
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pekinese\10.jpg,Pekinese,Pekinese,99.79318380355835
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pit Bull\01.jpg,Pit Bull,Pit Bull,43.30901503562927
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pit Bull\02.jpg,Pit Bull,Pit Bull,98.39973449707031
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pit Bull\03.jpg,Pit Bull,Pit Bull,98.71821403503418
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pit Bull\04.jpg,Pit Bull,Pit Bull,99.12376403808594
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pit Bull\05.jpg,Pit Bull,Pit Bull,87.58371472358704
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pit Bull\06.jpg,Pit Bull,Pit Bull,99.26090836524963
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pit Bull\07.jpg,Pit Bull,Pit Bull,98.332279920578
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pit Bull\08.jpg,Pit Bull,Pit Bull,99.20598268508911
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pit Bull\09.jpg,Pit Bull,Pit Bull,85.75059771537781
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pit Bull\10.jpg,Pit Bull,Pit Bull,83.94392728805542
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pomeranian\01.jpg,Pomeranian,Pomeranian,99.99977350234985
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pomeranian\02.jpg,Pomeranian,Pomeranian,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pomeranian\03.jpg,Pomeranian,Pomeranian,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pomeranian\04.jpg,Pomeranian,Pomeranian,99.99994039535522
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pomeranian\05.jpg,Pomeranian,Pomeranian,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pomeranian\06.jpg,Pomeranian,Pomeranian,99.99924898147583
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pomeranian\07.jpg,Pomeranian,Pomeranian,99.98364448547363
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pomeranian\08.jpg,Pomeranian,Pomeranian,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pomeranian\09.jpg,Pomeranian,Pomeranian,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pomeranian\10.jpg,Pomeranian,Pomeranian,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Poodle\01.jpg,Poodle,Poodle,99.57155585289001
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Poodle\02.jpg,Poodle,Cockapoo,63.98778557777405
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Poodle\03.jpg,Poodle,Poodle,96.39383554458618
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Poodle\04.jpg,Poodle,Poodle,95.6432580947876
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Poodle\05.jpg,Poodle,Poodle,99.66331124305725
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Poodle\06.jpg,Poodle,Poodle,76.1736512184143
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Poodle\07.jpg,Poodle,Bichon Frise,33.79505276679993
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Poodle\08.jpg,Poodle,Poodle,94.99053955078125
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Poodle\09.jpg,Poodle,Poodle,99.01787042617798
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Poodle\10.jpg,Poodle,Poodle,99.04041290283203
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pug\01.jpg,Pug,Pug,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pug\02.jpg,Pug,Pug,99.99998807907104
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pug\03.jpg,Pug,Pug,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pug\04.jpg,Pug,Pug,99.99676942825317
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pug\05.jpg,Pug,Pug,99.99833106994629
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pug\06.jpg,Pug,Pug,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pug\07.jpg,Pug,Pug,99.99946355819702
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pug\08.jpg,Pug,Pug,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pug\09.jpg,Pug,Pug,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Pug\10.jpg,Pug,Pug,99.99995231628418
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Rhodesian\01.jpg,Rhodesian,Rhodesian,99.9578058719635
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Rhodesian\02.jpg,Rhodesian,Rhodesian,99.99576807022095
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Rhodesian\03.jpg,Rhodesian,Rhodesian,89.71002697944641
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Rhodesian\04.jpg,Rhodesian,Rhodesian,99.98849630355835
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Rhodesian\05.jpg,Rhodesian,Rhodesian,99.9954104423523
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Rhodesian\06.jpg,Rhodesian,Rhodesian,99.99933242797852
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Rhodesian\07.jpg,Rhodesian,Rhodesian,99.75800514221191
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Rhodesian\08.jpg,Rhodesian,Rhodesian,99.97631907463074
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Rhodesian\09.jpg,Rhodesian,Rhodesian,99.9987244606018
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Rhodesian\10.jpg,Rhodesian,Rhodesian,79.27462458610535
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Rottweiler\01.jpg,Rottweiler,Rottweiler,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Rottweiler\02.jpg,Rottweiler,Rottweiler,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Rottweiler\03.jpg,Rottweiler,Rottweiler,99.99719858169556
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Rottweiler\04.jpg,Rottweiler,Rottweiler,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Rottweiler\05.jpg,Rottweiler,Cocker,61.958736181259155
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Rottweiler\06.jpg,Rottweiler,Rottweiler,99.99995231628418
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Rottweiler\07.jpg,Rottweiler,Rottweiler,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Rottweiler\08.jpg,Rottweiler,Rottweiler,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Rottweiler\09.jpg,Rottweiler,Rottweiler,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Rottweiler\10.jpg,Rottweiler,Rottweiler,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Saint Bernard\01.jpg,Saint Bernard,Saint Bernard,99.99428987503052
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Saint Bernard\02.jpg,Saint Bernard,Saint Bernard,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Saint Bernard\03.jpg,Saint Bernard,Saint Bernard,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Saint Bernard\04.jpg,Saint Bernard,Saint Bernard,99.99978542327881
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Saint Bernard\05.jpg,Saint Bernard,Saint Bernard,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Saint Bernard\06.jpg,Saint Bernard,Saint Bernard,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Saint Bernard\07.jpg,Saint Bernard,Saint Bernard,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Saint Bernard\08.jpg,Saint Bernard,Saint Bernard,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Saint Bernard\09.jpg,Saint Bernard,Saint Bernard,99.99991655349731
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Saint Bernard\10.jpg,Saint Bernard,Boxer,13.829833269119263
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Schnauzer\01.jpg,Schnauzer,Schnauzer,98.99777173995972
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Schnauzer\02.jpg,Schnauzer,Schnauzer,99.8356282711029
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Schnauzer\03.jpg,Schnauzer,Schnauzer,99.40671920776367
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Schnauzer\04.jpg,Schnauzer,Schnauzer,99.96860027313232
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Schnauzer\05.jpg,Schnauzer,Schnauzer,99.60322976112366
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Schnauzer\06.jpg,Schnauzer,Schnauzer,99.79421496391296
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Schnauzer\07.jpg,Schnauzer,Schnauzer,97.59150743484497
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Schnauzer\08.jpg,Schnauzer,Schnauzer,89.82970714569092
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Schnauzer\09.jpg,Schnauzer,Schnauzer,95.03246545791626
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Schnauzer\10.jpg,Schnauzer,Schnauzer,99.98668432235718
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Scotch Terrier\01.jpg,Scotch Terrier,Scotch Terrier,99.99799728393555
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Scotch Terrier\02.jpg,Scotch Terrier,Scotch Terrier,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Scotch Terrier\03.jpg,Scotch Terrier,Scotch Terrier,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Scotch Terrier\04.jpg,Scotch Terrier,Scotch Terrier,99.97314810752869
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Scotch Terrier\05.jpg,Scotch Terrier,Scotch Terrier,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Scotch Terrier\06.jpg,Scotch Terrier,Scotch Terrier,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Scotch Terrier\07.jpg,Scotch Terrier,Scotch Terrier,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Scotch Terrier\08.jpg,Scotch Terrier,Scotch Terrier,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Scotch Terrier\09.jpg,Scotch Terrier,Scotch Terrier,99.9188244342804
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Scotch Terrier\10.jpg,Scotch Terrier,Scotch Terrier,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shar_Pei\01.jpg,Shar_Pei,Shar_Pei,66.76167249679565
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shar_Pei\02.jpg,Shar_Pei,Shar_Pei,99.93700385093689
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shar_Pei\03.jpg,Shar_Pei,Shar_Pei,99.9441921710968
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shar_Pei\04.jpg,Shar_Pei,Shar_Pei,99.94980096817017
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shar_Pei\05.jpg,Shar_Pei,Shar_Pei,98.15455079078674
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shar_Pei\06.jpg,Shar_Pei,Shar_Pei,99.99942779541016
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shar_Pei\07.jpg,Shar_Pei,Cocker,44.90475952625275
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shar_Pei\08.jpg,Shar_Pei,Bull Mastiff,39.86637592315674
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shar_Pei\09.jpg,Shar_Pei,Shar_Pei,99.84930753707886
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shar_Pei\10.jpg,Shar_Pei,Shar_Pei,98.46791625022888
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shiba Inu\01.jpg,Shiba Inu,Shiba Inu,99.86842274665833
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shiba Inu\02.jpg,Shiba Inu,Shiba Inu,66.36754870414734
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shiba Inu\03.jpg,Shiba Inu,Shiba Inu,95.66235542297363
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shiba Inu\04.jpg,Shiba Inu,Shiba Inu,99.94768500328064
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shiba Inu\05.jpg,Shiba Inu,Shiba Inu,99.93078708648682
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shiba Inu\06.jpg,Shiba Inu,Shiba Inu,90.44818878173828
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shiba Inu\07.jpg,Shiba Inu,Shiba Inu,97.06865549087524
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shiba Inu\08.jpg,Shiba Inu,Shiba Inu,83.87072086334229
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shiba Inu\09.jpg,Shiba Inu,Dingo,96.13398313522339
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shiba Inu\10.jpg,Shiba Inu,Shiba Inu,95.32582759857178
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shih-Tzu\01.jpg,Shih-Tzu,Shih-Tzu,78.14047336578369
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shih-Tzu\02.jpg,Shih-Tzu,Shih-Tzu,99.18829202651978
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shih-Tzu\03.jpg,Shih-Tzu,Shih-Tzu,99.51841235160828
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shih-Tzu\04.jpg,Shih-Tzu,Shih-Tzu,99.35010075569153
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shih-Tzu\05.jpg,Shih-Tzu,Shih-Tzu,95.96392512321472
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shih-Tzu\06.jpg,Shih-Tzu,Shih-Tzu,98.50612282752991
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shih-Tzu\07.jpg,Shih-Tzu,Lhasa,82.50033259391785
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shih-Tzu\08.jpg,Shih-Tzu,Shih-Tzu,99.7484803199768
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shih-Tzu\09.jpg,Shih-Tzu,Shih-Tzu,98.15806746482849
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Shih-Tzu\10.jpg,Shih-Tzu,Shih-Tzu,92.77050495147705
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Siberian Husky\01.jpg,Siberian Husky,Siberian Husky,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Siberian Husky\02.jpg,Siberian Husky,Siberian Husky,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Siberian Husky\03.jpg,Siberian Husky,Siberian Husky,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Siberian Husky\04.jpg,Siberian Husky,Siberian Husky,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Siberian Husky\05.jpg,Siberian Husky,Siberian Husky,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Siberian Husky\06.jpg,Siberian Husky,Siberian Husky,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Siberian Husky\07.jpg,Siberian Husky,Siberian Husky,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Siberian Husky\08.jpg,Siberian Husky,Siberian Husky,99.99932050704956
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Siberian Husky\09.jpg,Siberian Husky,Siberian Husky,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Siberian Husky\10.jpg,Siberian Husky,Siberian Husky,100.0
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Vizsla\01.jpg,Vizsla,Vizsla,99.38284754753113
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Vizsla\02.jpg,Vizsla,Vizsla,98.91119599342346
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Vizsla\03.jpg,Vizsla,Vizsla,99.76669549942017
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Vizsla\04.jpg,Vizsla,Vizsla,98.63469004631042
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Vizsla\05.jpg,Vizsla,Vizsla,99.96885061264038
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Vizsla\06.jpg,Vizsla,Vizsla,99.5554506778717
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Vizsla\07.jpg,Vizsla,Vizsla,98.55052828788757
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Vizsla\08.jpg,Vizsla,Vizsla,98.66675734519958
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Vizsla\09.jpg,Vizsla,Vizsla,99.85499978065491
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Vizsla\10.jpg,Vizsla,Vizsla,99.76669549942017
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Yorkie\01.jpg,Yorkie,Yorkie,99.94426369667053
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Yorkie\02.jpg,Yorkie,Yorkie,97.85118699073792
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Yorkie\03.jpg,Yorkie,Yorkie,99.65999722480774
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Yorkie\04.jpg,Yorkie,Yorkie,95.65944075584412
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Yorkie\05.jpg,Yorkie,Yorkie,99.9386191368103
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Yorkie\06.jpg,Yorkie,Yorkie,99.80327486991882
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Yorkie\07.jpg,Yorkie,Yorkie,99.77467656135559
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Yorkie\08.jpg,Yorkie,Yorkie,99.81846213340759
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Yorkie\09.jpg,Yorkie,Yorkie,75.47221183776855
+D:/KULIAH/Semester 5/Pengenalan Pola/DogBreed_Website/valid\Yorkie\10.jpg,Yorkie,Yorkie,98.29094409942627

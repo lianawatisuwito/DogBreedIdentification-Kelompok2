@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dog Breed Detection</title>
+    <style>
+      /* General Styles */
+      html {
+        scroll-behavior: smooth;
+      }
+
+      body {
+        margin: 0;
+        font-family: "Metropolis", bold;
+        background-color: #f9f9f9;
+        color: #333;
+      }
+      a {
+        text-decoration: none;
+        color: inherit;
+      }
+
+      /* Navbar */
+      nav {
+        background-color: white;
+        color: #5648ed;
+        padding: 15px 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      }
+      nav .logo {
+        font-size: 22px;
+        font-weight: bold;
+      }
+      nav .links a {
+        margin: 0 15px;
+        font-size: 14px;
+        color: black;
+        transition: color 0.3s ease;
+      }
+      nav .links a:hover {
+        color: #5648ed;
+      }
+
+      /* Hero Section */
+      section {
+        background-color: #fff;
+        padding: 60px 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .hero {
+        text-align: center;
+        background: linear-gradient(to left, #a199f6, #5648ed);
+        border-radius: 20px;
+        width: 1200px;
+        height: 400px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        transition: transform 0.5s ease;
+      }
+
+      .hero h1 {
+        font-size: 65px;
+        font-family: "Metropolis", extra bold;
+        margin-bottom: 10px;
+        color: #fff;
+      }
+
+      .hero p {
+        font-size: 18px;
+        margin-bottom: 20px;
+        line-height: 1.6;
+        color: #fff;
+      }
+
+      .hero-content {
+        background: #fff;
+        border-radius: 12px;
+        padding: 15px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+        width: 100%;
+        max-width: 600px;
+        margin: 0 auto;
+        height: auto;
+      }
+
+      .hero-content label {
+        font-size: 16px;
+        font-weight: 600;
+        display: block;
+        margin-bottom: 10px;
+        color: #333;
+      }
+
+      .hero-content .file-input-wrapper {
+        background-color: white;
+        border-radius: 6px;
+        padding: 10px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 10px;
+      }
+
+      .hero-content input[type="file"] {
+        flex: 1;
+        border: none;
+        outline: none;
+        font-size: 14px;
+        background: none;
+      }
+
+      .hero-content button {
+        flex-shrink: 0;
+        width: auto;
+        background-color: #5648ed;
+        color: white;
+        padding: 12px;
+        border: none;
+        border-radius: 8px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+      }
+
+      .hero-content button:hover {
+        background-color: #3f33b8;
+        transform: scale(1.05);
+      }
+
+      /* New Section */
+      .new-section {
+        background: white;
+        border-radius: 20px;
+        width: 90%;
+        max-width: 1200px;
+        margin: 40px auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+      }
+
+      .new-section .content {
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+        gap: 20px;
+      }
+
+      /* Left Side */
+      .new-section .left-side {
+        flex: 1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden; /* Ensures the image doesn't overflow the container */
+        border: 1px solid #d3d3d3;
+        border-radius: 12px;
+        background-color: #f4f4f4;
+        height: 300px; /* Maintain a consistent height for the container */
+      }
+
+      .new-section .left-side img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover; /* Fills the container while maintaining aspect ratio */
+        border-radius: 12px;
+      }
+
+      /* Right Side */
+      .new-section .right-side {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+      }
+
+      .new-section .right-side .result {
+        font-size: 20px;
+        font-weight: bold;
+        color: #333;
+      }
+
+      .new-section .right-side .circle {
+        position: relative;
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        background: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      }
+
+      .new-section .right-side .circle span {
+        position: absolute;
+        font-size: 18px;
+        font-weight: bold;
+        color: #5648ed;
+      }
+
+      .new-section .right-side button {
+        background-color: #5648ed;
+        color: white;
+        padding: 12px 20px;
+        font-size: 16px;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+      }
+
+      .new-section .right-side button:hover {
+        background-color: #3f33b8;
+      }
+
+      /* Team Section */
+      .team-section {
+        width: 90%;
+        max-width: 800px;
+        margin: 40px auto;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 30px;
+      }
+
+      .team-section .top h2 {
+        font-family: "Metropolis", bold;
+        font-size: 50px;
+        margin: 0;
+        color: transparent; /* Make the text transparent */
+        background: linear-gradient(to right, #7870d6, #5648ed);
+        -webkit-background-clip: text;
+        background-clip: text;
+      }
+
+      .team-section .middle,
+      .team-section .bottom {
+        width: 100%;
+        overflow: hidden; /* Ensures the image doesn't overflow */
+        position: relative;
+      }
+
+      .team-section .middle img,
+      .team-section .bottom img {
+        width: 100%;
+        height: auto;
+        border-radius: 12px;
+        transition: transform 0.5s ease, opacity 0.5s ease;
+        opacity: 0;
+        transform: translateY(50px);
+      }
+
+      .team-section .middle img:hover,
+      .team-section .bottom img:hover {
+        transform: scale(1.1);
+        opacity: 1;
+      }
+      .howit-section {
+        background: white;
+        padding: 40px 20px;
+        width: 90%;
+        max-width: 1200px;
+        margin: 40px auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .howit-section .content {
+        display: flex;
+        width: 100%;
+        gap: 20px; /* Reduced gap between left and right */
+      }
+
+      .howit-section .left {
+        flex: none; /* Fix the width of the left side */
+        width: 300px; /* Set the desired width for the dog image */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .howit-section .left img {
+        width: 100%; /* Image fills the container width */
+        border-radius: 12px;
+        object-fit: contain; /* Maintain aspect ratio */
+      }
+
+      .howit-section .right {
+        flex: 1; /* Right side takes remaining space */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .howit-section .rounded {
+        background: linear-gradient(to left, #8b83e4, #5648ed);
+        width: 100%;
+        max-width: 800px; /* Increased width for the rounded section */
+        padding: 40px; /* Slightly increased padding */
+        border-radius: 20px;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        text-align: center;
+      }
+
+      .howit-section .top h2 {
+        font-size: 48px; /* Larger heading */
+        margin: 0;
+        font-family: "Metropolis", bold;
+      }
+
+      .howit-section .bottom {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+      }
+
+      .howit-section .bottom .row {
+        display: flex;
+        justify-content: space-between;
+        gap: 10px;
+      }
+
+      .howit-section .bottom .step {
+        background: white;
+        color: #5733b8;
+        padding: 10px 15px;
+        border-radius: 8px;
+        font-size: 16px;
+        font-weight: bold;
+        text-align: center;
+        flex: 1;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+      }
+
+      .howit-section .bottom .step:hover {
+        transform: scale(1.05);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Navbar -->
+    <nav>
+      <div class="logo">
+        <img src="static/images/logo.svg" alt="Logo" />
+      </div>
+      <div class="links">
+        <a href="#hero">Identify Dog Breed</a>
+        <a href="#howit-section">How It Works?</a>
+        <a href="#team-section">Our Team</a>
+      </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="hero">
+      <div class="hero">
+        <h1>Find Out Your Dog's Breed</h1>
+        <p>
+          Simply upload a photo of your dog, and our AI will identify its breed
+          with confidence.
+        </p>
+        <div class="hero-content">
+          <form
+            id="classification-form"
+            method="POST"
+            enctype="multipart/form-data">
+            <div class="file-input-wrapper">
+              <div class="file-input-container">
+                <input
+                  type="file"
+                  name="file"
+                  id="file"
+                  accept="image/png, image/jpg, image/jpeg"
+                  required />
+              </div>
+              <div>
+                <button type="submit" id="classify-button">Classify Now</button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </section>
+
+    <!-- New Section -->
+    <section id="new-section">
+      <div class="new-section">
+        <div class="content">
+          <!-- Left Side -->
+          <div class="left-side">
+            <!-- Display uploaded image -->
+            <img src="{{ uploaded_image_url }}" alt="Uploaded Image" />
+          </div>
+          <!-- Right Side -->
+          <div class="right-side">
+            {% if result %}
+            <div class="result">
+              Result: <span style="color: #5648ed">{{ result }}</span>
+            </div>
+            <div class="circle">
+              <!-- Circular progress bar SVG -->
+              <svg width="120" height="120" viewBox="0 0 120 120">
+                <circle
+                  cx="60"
+                  cy="60"
+                  r="54"
+                  stroke="#d3d3d3"
+                  stroke-width="8"
+                  fill="none"></circle>
+                <!-- Background circle -->
+                <circle
+                  cx="60"
+                  cy="60"
+                  r="54"
+                  stroke="#d3d3d3"
+                  stroke-width="8"
+                  fill="none"></circle>
+                <!-- Background circle -->
+                <circle
+                  cx="60"
+                  cy="60"
+                  r="54"
+                  stroke="#5648ed"
+                  stroke-width="8"
+                  fill="none"
+                  stroke-dasharray="339.292"
+                  stroke-dashoffset="{{ (1 - confidence / 100) * 339.292 }}"></circle>
+                <!-- Foreground circle (progress) -->
+              </svg>
+              <span>{{ confidence }}%</span>
+              {% elif error %}
+              <p style="color: red">{{ error }}</p>
+              {% endif %}
+            </div>
+            <button class="new-try-button">New Try</button>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="howit-section" class="howit-section">
+      <div class="content">
+        <div class="left">
+          <img src="static/images/dog_PNG50371.png" alt="Dog Illustration" />
+        </div>
+
+        <div class="right">
+          <div class="rounded">
+            <div class="top">
+              <h2>How it Works?</h2>
+            </div>
+            <div class="bottom">
+              <div class="row">
+                <div class="step">Image Analysis</div>
+                <div class="step">Feature Extract with CNN</div>
+              </div>
+              <div class="row">
+                <div class="step">Use Inception V3 model</div>
+                <div class="step">Breed Prediction</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="team-section" class="team-section">
+      <div class="top">
+        <h2>Meet Our Team</h2>
+      </div>
+      <div class="middle">
+        <img
+          src="static/images/team-1.png"
+          alt="Team Member 1"
+          class="team-image" />
+      </div>
+      <div class="bottom">
+        <img
+          src="static/images/team-2.png"
+          alt="Team Member 2"
+          class="team-image" />
+      </div>
+    </section>
+  </body>
+  <script>
+    // Get references to the button and section
+    const newTryButton = document.querySelector(".new-try-button");
+    const newSection = document.querySelector(".new-section");
+
+    // Add event listener to toggle visibility on button click
+    newTryButton.addEventListener("click", () => {
+      newSection.classList.toggle("hidden"); // Toggle the hidden class
+      // Save the state in localStorage
+      const isHidden = newSection.classList.contains("hidden");
+      localStorage.setItem("newSectionHidden", isHidden ? "true" : "false");
+    });
+
+    // Check the localStorage and hide on page load if previously hidden
+    document.addEventListener("DOMContentLoaded", () => {
+      const newSectionHidden = localStorage.getItem("newSectionHidden");
+      if (newSectionHidden === "true") {
+        newSection.classList.add("hidden");
+      }
+    });
+  </script>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const newTryButton = document.querySelector(".right-side button");
+      const uploadedImage = document.querySelector(".left-side img");
+      const resultElement = document.querySelector(".right-side .result span");
+      const confidenceCircle = document.querySelector(".circle span");
+      const newSection = document.querySelector(".new-section");
+
+      newTryButton.addEventListener("click", (event) => {
+        event.preventDefault();
+
+        // Clear the image source
+        uploadedImage.src = "";
+        uploadedImage.alt = "No Image Uploaded";
+
+        // Clear result text and confidence
+        resultElement.textContent = "";
+        confidenceCircle.textContent = "";
+
+        // Optionally reset the form
+        document.getElementById("classification-form").reset();
+
+        // Hide the new-section
+        newSection.style.display = "none";
+
+        // Save hidden state
+        localStorage.setItem("newSectionHidden", "true");
+      });
+    });
+  </script>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const teamImages = document.querySelectorAll(".team-section img");
+
+      const revealOnScroll = () => {
+        const triggerBottom = window.innerHeight * 0.9;
+
+        teamImages.forEach((image) => {
+          const imageTop = image.getBoundingClientRect().top;
+
+          if (imageTop < triggerBottom) {
+            image.style.opacity = "1";
+            image.style.transform = "translateY(0)";
+          }
+        });
+      };
+
+      window.addEventListener("scroll", revealOnScroll);
+      revealOnScroll();
+    });
+  </script>
+
+  <script>
+    // Example: Fading in elements on scroll
+    const elements = document.querySelectorAll(".fade-in");
+
+    const reveal = () => {
+      for (let i = 0; i < elements.length; i++) {
+        if (elements[i].getBoundingClientRect().top < window.innerHeight) {
+          elements[i].classList.add("visible");
+        }
+      }
+    };
+
+    window.addEventListener("scroll", reveal);
+    window.addEventListener("load", reveal);
+  </script>
+</html>
